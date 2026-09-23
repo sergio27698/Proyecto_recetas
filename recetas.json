@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Silpancho",
+        "region": "Cochabamba",
+        "porciones": 4,
+        "ingredientes": {"carne": 1, "papa": 3, "tomate": 2, "arroz": 1},
+        "pasos": [
+            "Aplanar la carne y sazonarla",
+            "Freír la carne hasta dorar",
+            "Cocinar el arroz por separado",
+            "Freír las papas en rodajas",
+            "Servir con arroz, papas, carne, huevo frito y ensalada de tomate y cebolla"
+        ]
+    },
+    {
+        "nombre": "Pique macho",
+        "region": "Cochabamba",
+        "porciones": 4,
+        "ingredientes": {"carne": 1, "papa": 4, "tomate": 3, "salchicha": 2},
+        "pasos": [
+            "Cortar la carne y las salchichas en trozos",
+            "Freír las papas en bastones",
+            "Saltear la carne y las salchichas",
+            "Mezclar todo con tomate, cebolla y locoto picados",
+            "Servir caliente en un solo plato"
+        ]
+    }
+]
